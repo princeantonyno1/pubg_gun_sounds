@@ -7,8 +7,10 @@ Enjoy the immersive PUBG gun sounds experience!
 Contributions
 Contributions are welcome! If you'd like to contribute to enhancing this app, feel free to submit pull requests or open issues with suggestions and feedback.
 
-License
+License:
+
 This project is licensed under the MIT License.
 
-Disclaimer
+Disclaimer:
+
 This application is not affiliated with or endorsed by PUBG Corporation. All PUBG-related content, including gun sounds, is used purely for entertainment purposes.
