@@ -3,7 +3,7 @@
 
 **Features**
 
-Extensive Gun Sound Library: Access a wide range of authentic PUBG gun sounds, including rifles, shotguns, pistols, and more.
+Extensive Gun Sound Library: Access a wide range of authentic PUBG gun sounds, including assault rifles,sub-machine guns, machine guns, shotguns, snipers and more.
 
 Intuitive Interface: User-friendly design allows for easy navigation and quick access to desired gun sounds.
 
