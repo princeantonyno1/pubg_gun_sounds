@@ -1,6 +1,21 @@
 **Screenshots**
 ![screenshot](https://github.com/princeantonyno1/pubg_gun_sounds/assets/148847362/a6168e15-07d5-4aa3-95df-6e5fa9fe34e4)
 
+**Features**
+
+Extensive Gun Sound Library: Access a wide range of authentic PUBG gun sounds, including rifles, shotguns, pistols, and more.
+
+Intuitive Interface: User-friendly design allows for easy navigation and quick access to desired gun sounds.
+
+Long Press Activation: Trigger gun sounds effortlessly with a simple long press on the gun icon.
+
+Offline Access: Enjoy the app's functionalities even without an internet connection, perfect for on-the-go gaming enthusiasts.
+
+Customization Options: Tailor the app to suit your preferences with adjustable settings for volume, sound quality, and more.
+
+Compact Size: The app is lightweight and occupies minimal storage space on your device, ensuring smooth performance.
+
+
 **Installation**
 
 Download the APK: Click on the latest release on the right side of this page and download the APK file.
@@ -13,7 +28,7 @@ Enable Installation from Unknown Sources (if needed): If you encounter any issue
 
 **Contributions**
 
-    Contributions are welcome! If you'd like to contribute to enhancing this app, feel free to submit pull requests or open issues with suggestions and feedback.
+Contributions are welcome! If you'd like to contribute to enhancing this app, feel free to submit pull requests or open issues with suggestions and feedback.
 
 **License**
 
