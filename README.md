@@ -1,6 +1,5 @@
 Screenshots:
-![Uploading screenshot.png…]()
-
+![screenshot](https://github.com/princeantonyno1/pubg_gun_sounds/assets/148847362/06427e82-bf09-4634-8c61-941859cc96e6)
 
 
 Installation:
