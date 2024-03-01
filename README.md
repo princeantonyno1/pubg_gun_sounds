@@ -30,9 +30,6 @@ Enable Installation from Unknown Sources (if needed): If you encounter any issue
 
 Contributions are welcome! If you'd like to contribute to enhancing this app, feel free to submit pull requests or open issues with suggestions and feedback.
 
-**License**
-
-    This project is licensed under the MIT License.
 
 **Disclaimer**
 
