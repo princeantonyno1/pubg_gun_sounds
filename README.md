@@ -1,7 +1,7 @@
 **Screenshots**
 
-![screenshot1](https://github.com/princeantonyno1/pubg_gun_sounds/assets/148847362/5604ad79-72cb-4649-a8c6-e1f430e4644b)
-![screenshot2](https://github.com/princeantonyno1/pubg_gun_sounds/assets/148847362/16f25071-acc5-49f8-b152-fd4e2eb4e006)
+![screenshot1](https://github.com/princeantonyno1/pubg_gun_sounds/assets/148847362/008f0f19-6021-4ce3-a727-3472902da9d7)
+![screenshot2](https://github.com/princeantonyno1/pubg_gun_sounds/assets/148847362/1fb1fc18-c338-4ed3-9197-35fa35a2479a)
 
 
 **Features**
